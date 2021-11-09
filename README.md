@@ -53,4 +53,5 @@ interfaz web basada en data e interacción con la usuaria.
 ![Captura de Pantalla 2021-11-09 a la(s) 13 10 27](https://user-images.githubusercontent.com/86631102/140988939-a389d2f5-542e-41a2-9fcf-32029ceb0635.png)
 
   
-![Captura de Pantalla 2021-11-09 a la(s) 13 17 41](https://user-images.githubusercontent.com/86631102/140990192-1300148a-3f5b-476a-8762-e2b0e280ae82.png)
+![Captura de Pantalla 2021-11-09 a la(s) 13 20 14](https://user-images.githubusercontent.com/86631102/140990395-1540a665-1bf2-4a27-b6bb-2fdfe6703b11.png)
+
